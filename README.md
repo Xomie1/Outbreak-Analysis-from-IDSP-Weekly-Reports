@@ -25,9 +25,17 @@ This project analyzes weekly reported disease outbreaks in India using data from
 
 3. Charts & Visualization:
 - Bar charts: Top diseases by reported cases
-- Column charts: States and districts by death count
+  ![Diseases with highest reported cases](https://github.com/user-attachments/assets/ca95f596-6ac2-4309-bd02-a94177f710b8)
+
+- Column charts: States by death count
+  ![States with most deaths](https://github.com/user-attachments/assets/0387f020-3a8d-46c6-ae05-1c4df23971c1)
+
 - Line chart: Weekly malaria outbreak spikes (Week 43–48)
+  ![Weekly trends using line charts](https://github.com/user-attachments/assets/74116a5a-6975-4324-aa7d-fab0d05b2aa6)
+
 - Bar chart: Disease-wise CFR (%) comparison
+  ![Deadliest Disease (CFR)](https://github.com/user-attachments/assets/5e481f88-9b2d-42a8-bfb8-3f6c649a9d3c)
+
 
 📈 Key Insights:
 - Insight Type: Finding
